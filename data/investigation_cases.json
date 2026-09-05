@@ -1,0 +1,52 @@
+[
+  {
+    "Case ID": "FT-20260905152627",
+    "Created": "2026-09-05 15:26:27",
+    "Amount": 5000.0,
+    "Risk Score": 53.083900451660156,
+    "Alert Priority": " HIGH",
+    "Status": "Resolved - Legitimate",
+    "Decision": "VERIFY / AUTHENTICATE",
+    "Notes": ""
+  },
+  {
+    "Case ID": "FT-20260905152639",
+    "Created": "2026-09-05 15:26:39",
+    "Amount": 5000.0,
+    "Risk Score": 53.083900451660156,
+    "Alert Priority": " HIGH",
+    "Status": "Resolved - Legitimate",
+    "Decision": "VERIFY / AUTHENTICATE",
+    "Notes": ""
+  },
+  {
+    "Case ID": "FT-20260905153336",
+    "Created": "2026-09-05 15:33:36",
+    "Amount": 5000.0,
+    "Risk Score": 53.083900451660156,
+    "Alert Priority": " HIGH",
+    "Status": "Resolved - Legitimate",
+    "Decision": "VERIFY / AUTHENTICATE",
+    "Notes": ""
+  },
+  {
+    "Case ID": "FT-20260905165019",
+    "Created": "2026-09-05 16:50:19",
+    "Amount": 5000.0,
+    "Risk Score": 58.417232513427734,
+    "Alert Priority": " HIGH",
+    "Status": "Resolved - Legitimate",
+    "Decision": "VERIFY / AUTHENTICATE",
+    "Notes": ""
+  },
+  {
+    "Case ID": "FT-20260905165040",
+    "Created": "2026-09-05 16:50:40",
+    "Amount": 5000.0,
+    "Risk Score": 58.417232513427734,
+    "Alert Priority": " HIGH",
+    "Status": "Under Review",
+    "Decision": "VERIFY / AUTHENTICATE",
+    "Notes": "lllllD"
+  }
+]
