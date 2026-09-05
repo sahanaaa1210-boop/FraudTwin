@@ -1,10 +1,10 @@
 [theme]
-base = "light"
-primaryColor = "#E2A899"
-backgroundColor = "#FAF7F2"
-secondaryBackgroundColor = "#F3EEE8"
-textColor = "#272320"
-font = "sans serif"
-
-[server]
-enableStaticServing = true
+base = "dark"
+primaryColor = "#9B4DFF"
+backgroundColor = "#0B0A0F"
+secondaryBackgroundColor = "#171522"
+textColor = "#F5F3F7"
+borderColor = "#30283A"
+dataframeBorderColor = "#30283A"
+dataframeHeaderBackgroundColor = "#211A2B"
+showWidgetBorder = true

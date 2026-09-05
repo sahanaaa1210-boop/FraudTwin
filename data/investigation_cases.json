@@ -48,5 +48,15 @@
     "Status": "Under Review",
     "Decision": "VERIFY / AUTHENTICATE",
     "Notes": "lllllD"
+  },
+  {
+    "Case ID": "FT-20260905191214",
+    "Created": "2026-09-05 19:12:14",
+    "Amount": 5000.0,
+    "Risk Score": 58.417232513427734,
+    "Alert Priority": " HIGH",
+    "Status": "Resolved - Legitimate",
+    "Decision": "VERIFY / AUTHENTICATE",
+    "Notes": ""
   }
 ]
